@@ -157,7 +157,7 @@ These differences may reflect variations in deal complexity, decision-making pro
 - Closed deal value followed a similar pattern, reaching its highest level around June before falling during the following months.
 - Actual results remained below expected deal value in the forecast analysis, suggesting that some opportunities may have been delayed, overestimated, or moved to later closing dates.
 
-![Actual versus Expected Performance](images/Actual_Expected_Performance.png)
+![Actual versus Expected Performance](images/Actua_Expected_Performance.png)
 
 ## High-Risk Opportunity Analysis
 
@@ -166,7 +166,7 @@ These differences may reflect variations in deal complexity, decision-making pro
 - The selected high-risk opportunities represent approximately **$224.56K in expected value**.
 - High-value opportunities should be prioritised according to their expected closing date, current probability, assigned sales agent, and risk classification.
 
-![High-Risk Opportunity Analysis](images/High_Risk_Opportunity_Analysis.png)
+![High-Risk Opportunity Analysis](images/High_Risk_Opportunity.png)
 
 ---
 
