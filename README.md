@@ -197,10 +197,3 @@ These differences may reflect variations in deal complexity, decision-making pro
 
 - **Action:** Focus sales follow-up on high-risk deals with large expected values and approaching closing dates.
 - **Rationale:** The pipeline contains 682 high-risk deals, including selected opportunities representing approximately $224.56K in expected value.
-
-
-
-
-
-
-  
