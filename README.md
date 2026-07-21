@@ -15,6 +15,8 @@ The report provides insights and recommendations across the following areas:
 - **Pipeline Probability and Risk Analysis:** Group opportunities by closing probability and identify high-probability and high-risk deals.
 - **Product and Market Analysis:** Assess the performance of SaaS, Services, and Custom Solutions across countries and customer segments.
 
+![CRM dashboard](images/sales_overview.png)
+
 ## Project Resources
 
 - [View the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY0OTcwODQtNTc4Mi00MjQzLTk1YmMtZWYzNDUwMjVkNzUwIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9)
