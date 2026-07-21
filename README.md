@@ -138,7 +138,7 @@ The current pipeline carries an expected value of **$931.28K**, with **13.10% of
 
 These differences may reflect variations in deal complexity, decision-making processes, and customer requirements.
 
-![Industry Performance](images/Industry_Performance.png)
+![Industry Performance](images/Industry_Performances.png)
 ---
 
 # Pipeline Forecast and Risk Deep Dive
