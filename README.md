@@ -198,42 +198,9 @@ These differences may reflect variations in deal complexity, decision-making pro
 - **Action:** Focus sales follow-up on high-risk deals with large expected values and approaching closing dates.
 - **Rationale:** The pipeline contains 682 high-risk deals, including selected opportunities representing approximately $224.56K in expected value.
 
----
 
-# Tools and Technologies
 
-- SQL Server
-- SQL Server Management Studio
-- SQL
-- Power BI
-- Power Query
-- DAX
-- GitHub
 
----
 
-# Repository Structure
 
-```text
-CRM-and-Sales-Pipeline-Analysis/
-│
-├── README.md
-├── images/
-│   ├── ERP Schema.png
-│   ├── dashboard 1.png
-│   ├── dashboard 2.png
-│   ├── overview 1.png
-│   ├── overview 2.png
-│   ├── closed deals by month.png
-│   ├── actual vs. expected performance.png
-│   ├── expected closed deal by probability bucket.png
-│   ├── high risk opportunity analysis.png
-│   └── total leads closed by product and CR by countries.png
-│
-├── sql/
-│   ├── database-setup.sql
-│   ├── data-preparation.sql
-│   └── business-questions/
-│
-└── powerbi/
     └── CRM-Sales-Pipeline-Analysis.pbix
